@@ -15,7 +15,7 @@ car1_x=10;
 car1_y=10;
 
 car2_x=10;
-car2_y=10;
+car2_y=80;
 
 function add()
     {
